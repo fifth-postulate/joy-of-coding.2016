@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Solving Permutation Puzzles",
+    "packageVersion": "1.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "fifth-postulate",
+    "githubRepository": "joy-of-coding.2016"
+  }
+}
