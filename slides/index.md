@@ -1,10 +1,3 @@
 
 # Solving Permutation Puzzles
-
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+## With the aid of a computer
