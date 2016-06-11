@@ -4,5 +4,11 @@
     "rubiks-cube-record.md",
     "you-can.md",
     "can-you.md",
-    "words.md"
+    "words.md",
+    {
+        "filename": "brainbow.html",
+        "attr": {
+            "data-state": "brainbow"
+        }
+    }
 ]
