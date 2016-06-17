@@ -1,4 +1,7 @@
+/* globals Reveal: false, document: false, Elm: false */
 (function(Reveal){
+    'use strict';
+
     function once(callback) {
         var count = 0;
         return function(){
@@ -8,12 +11,8 @@
         };
     }
 
-    Reveal.addEventListener('ready', function(){
-        console.log('Reveal is ready to rock');
-    });
-
     Reveal.addEventListener('brainbow', once(function(){
         var container = document.getElementById('brainbow-container');
-        var app = Elm.Main.embed(container);
+        Elm.Main.embed(container);
     }));
 })(Reveal);
