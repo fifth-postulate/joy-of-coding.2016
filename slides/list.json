@@ -1,0 +1,14 @@
+[
+    "index.md",
+    "text-adventure.md",
+    {
+        "filename": "brainbow.html",
+        "attr": {
+            "data-state": "brainbow"
+        }
+    },
+    "material.md",
+    "words.md",
+    "conjugate.md",
+    "commutator.md"
+]
